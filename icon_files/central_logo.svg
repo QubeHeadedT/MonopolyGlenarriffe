@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1408.5714"
-     inkscape:cy="845.71429"
+     inkscape:cx="1087.1428"
+     inkscape:cy="977.14286"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -72,23 +72,23 @@
        x="18.898809"
        y="136.07143" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:1.551;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+       style="fill:none;stroke:#000000;stroke-width:1.3641;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect12102"
-       width="557.1369"
-       height="159.50597"
-       x="18.898809"
-       y="136.07143" />
+       width="557.22925"
+       height="123.3597"
+       x="18.852627"
+       y="153.41216" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.675px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.96688"
-       x="36.057053"
-       y="269.03302"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.286px;line-height:1.25;font-family:Monopoly;-inkscape-font-specification:'Monopoly, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.33215"
+       x="31.165421"
+       y="255.81737"
        id="text12159"
        transform="scale(1.050405,0.95201374)"><tspan
          sodipodi:role="line"
          id="tspan12157"
-         x="36.057053"
-         y="269.03302"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.675px;font-family:Impact;-inkscape-font-specification:'Impact, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.96688">Glenopoly</tspan></text>
+         x="31.165421"
+         y="255.81737"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.286px;font-family:Monopoly;-inkscape-font-specification:'Monopoly, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:3.33215">Glenopoly</tspan></text>
   </g>
 </svg>
